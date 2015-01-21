@@ -1,0 +1,48 @@
+html, body{
+    min-height: 100%;
+    width: 100%;
+    padding-top: 20px;
+    padding-left: 5%;
+    padding-right: 5%;
+    box-sizing: border-box;
+    min-width: 700px;
+}
+
+a{
+    text-decoration:none;
+}
+.text{
+    height: 33%;
+    width: 100%;
+    margin: 0 auto;
+    padding-bottom: 20px;
+    //box-sizing: border-box;
+    font: 140% sans-serif;
+    //float: left;
+}
+
+.rightText{
+    text-align: right;
+}
+
+.imageBox{
+    height: 161px;
+    width: 25%;
+    float: left;
+}
+
+footer{
+    clear: both;
+    width: 90%;
+    text-align: center;
+    border-top: 1px solid grey;
+}
+
+.footerLinks{
+    margin-left: 10px;
+}
+
+.links{
+    padding-top: 20px;
+   //clear: both;
+}
